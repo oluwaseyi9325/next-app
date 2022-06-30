@@ -1,0 +1,32 @@
+{
+    
+    "details":[
+        {
+            "id": 1,
+            "price": 3000,
+            "name": "REDMI"
+        },
+        {
+            "id": 2,
+            "price": 4000,
+            "name": "VIVO"
+        },
+        {
+            "id": 3,
+            "price": 3800,
+            "name": "NOKIA"
+        },
+        {
+            "id": 4,
+            "price": 30300,
+            "name": "INFINIX"
+        },
+        {
+            "id": 5,
+            "price": 8000,
+            "name": "TECKNO"
+        }
+    ]
+
+
+}
